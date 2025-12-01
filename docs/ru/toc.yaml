@@ -12,4 +12,4 @@ items:
       path: sub-section/toc.yaml
       mode: link
  - name: Test
-    href: test.md
+    href: anotherpage.md
